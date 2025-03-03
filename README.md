@@ -16,8 +16,7 @@ The Digital Kiosk System will be an interactive self-service navigation hub that
 Touchscreen-based Interactive Maps: Installed at entry points, concourses, and platforms for quick navigation.
 QR Code Support: Users can scan QR codes from kiosks to continue navigation on their smartphones.
 Accessibility Features: Supports text-to-speech (TTS) and voice commands for visually impaired passengers.
-
-Key Features 
+ 
 Touchscreen-based Interactive Maps
 - Multi-touch UI: Easy-to-use map for navigating station facilities.
 - Real-time Updates: Reflects changes in station layouts dynamically.
