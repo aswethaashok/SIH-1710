@@ -67,7 +67,7 @@ Google Maps API / OpenStreetMap – Mapping services
 Text-to-Speech API – Accessibility support
 
 * QR Code Generation & Integration
-* 
+
 Zxing Library – QR code generation
 
 Firebase Dynamic Links – Smart links for mobile redirection
