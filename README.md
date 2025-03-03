@@ -47,25 +47,39 @@ Touchscreen-based Interactive Maps
 ## Technology Stack
 
 *Frontend (Kiosk UI & Interaction)
+
 React.js / Vue.js – Interactive UI
+
 Three.js / Babylon.js – 3D map rendering
+
 Touchscreen UI Optimization – Gesture-based controls
+
 Web Speech API – Voice recognition for commands
 
 *Backend & API Services
+
 Node.js / Python (Flask/Django) – API development
+
 PostgreSQL / Firebase – Real-time facility data storage
+
 Google Maps API / OpenStreetMap – Mapping services
+
 Text-to-Speech API – Accessibility support
 
 * QR Code Generation & Integration
+* 
 Zxing Library – QR code generation
+
 Firebase Dynamic Links – Smart links for mobile redirection
 
 
 ## Dependencies
+
 Cloud Backend (AWS/GCP/Azure) – Hosting real-time maps & updates
+
 Railway Station APIs – Fetching train schedules & platform details
+
 IoT Sensors & Bluetooth Beacons – Live crowd monitoring
+
 Text-to-Speech API – Google TTS / IBM Watson TTS
 
